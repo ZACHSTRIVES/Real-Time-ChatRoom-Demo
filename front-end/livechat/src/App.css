@@ -1,0 +1,23 @@
+
+.title{
+  color: Blue;
+}
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+.bg{
+  background-color: white;
+  margin: 15px;
+  padding: 10px;
+
+}
+.ms_box{
+  border-color: blue;
+  border-width: 10px;
+  text-align: left;
+  padding-left: 20px;
+}
+.username_input{
+  width: 100px;
+}
